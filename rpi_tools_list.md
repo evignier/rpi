@@ -1,0 +1,10 @@
+gdb
+git
+gpg
+luks
+nmcli
+rsync
+ssh
+task-warrior
+tmux
+vim
